@@ -10,5 +10,5 @@ Description :
 
 
 $ git clone https://github.com/borudeakshay/pollingapi.git
-$ cd Api-Polling-system
 $ npm install
+$ npm start
